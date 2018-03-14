@@ -34,7 +34,7 @@ export default class TextInputEffectsExample extends Component {
           />
         </View>
         <View style={[styles.card2, { backgroundColor: '#a9ceca' }]}>
-          <Text style={styles.title}>Fumi</Text>
+          <Text style={styles.title}>Fum</Text>
           <Fumi
             label={'Course Name'}
             labelStyle={{ color: '#a3a3a3' }}
