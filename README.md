@@ -1,2 +1,2 @@
 # RNative
-React Native
+React Native application
